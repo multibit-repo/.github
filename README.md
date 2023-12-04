@@ -1,4 +1,4 @@
-## MultiBit Labs
+## MultiBit Protocol
 
 
 👩‍💻 MultiBit breaks down the barrier between the BTC and EVM chains.
